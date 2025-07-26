@@ -3,6 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://siddartha30035.github.io/reactcicd3",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
